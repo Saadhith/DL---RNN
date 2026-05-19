@@ -42,9 +42,8 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: Syed Mohamed Raihan
-
-### Register Number: 212224240167
+### Name: Aadhith S
+### Register Number: 212224220002
 
 ```python
 
